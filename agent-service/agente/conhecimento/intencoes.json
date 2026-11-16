@@ -1,0 +1,155 @@
+{
+  "saudacao": {
+    "exemplos": [
+      "oi",
+      "olá",
+      "ola",
+      "oie",
+      "bom dia",
+      "boa tarde",
+      "boa noite",
+      "e aí",
+      "opa",
+      "oi tudo bem",
+      "olá, tudo bem?",
+      "hey",
+      "salve",
+      "oi, boa tarde"
+    ],
+    "respostas": [
+      "Oi! Sou o assistente virtual de cOillect. Em que posso ajudar?",
+      "Olá! Me conta o que você procura."
+    ],
+    "acoes": [],
+    "sugestoes": [
+      "Onde você quer acessar?",
+      "Para quem a cOillect foi criada?",
+      "O que devo fazer com o óleo antes de armazenar?"
+    ]
+  },
+  "despedida": {
+    "exemplos": [
+      "tchau",
+      "até mais",
+      "ate logo",
+      "até a próxima",
+      "tchau, obrigado",
+      "fui",
+      "flw",
+      "até breve",
+      "pode encerrar"
+    ],
+    "respostas": [
+      "Até mais! Se precisar, é só chamar.",
+      "Tchau! Volte quando quiser."
+    ],
+    "acoes": [],
+    "sugestoes": []
+  },
+  "agradecimento": {
+    "exemplos": [
+      "obrigado",
+      "obrigada",
+      "valeu",
+      "muito obrigado",
+      "agradeço",
+      "brigado",
+      "show, obrigado",
+      "perfeito, valeu",
+      "ajudou muito",
+      "obg",
+      "vlw"
+    ],
+    "respostas": [
+      "Por nada! Posso ajudar em mais alguma coisa?",
+      "Que bom que ajudou! Precisando, estou aqui."
+    ],
+    "acoes": [],
+    "sugestoes": []
+  },
+  "sobre_bot": {
+    "exemplos": [
+      "quem é você",
+      "o que você faz",
+      "você é um robô",
+      "você é humano",
+      "como você funciona",
+      "o que posso te perguntar",
+      "você é uma ia",
+      "com quem estou falando",
+      "pra que serve esse chat",
+      "o que você sabe fazer"
+    ],
+    "respostas": [
+      "Sou o assistente virtual de cOillect. Respondo dúvidas frequentes, mostro onde fica cada página. Para falar com uma pessoa, peça \"atendimento\"."
+    ],
+    "acoes": [],
+    "sugestoes": [
+      "Onde você quer acessar?",
+      "Para quem a cOillect foi criada?",
+      "O que devo fazer com o óleo antes de armazenar?"
+    ]
+  },
+  "ajuda": {
+    "exemplos": [
+      "ajuda",
+      "preciso de ajuda",
+      "me ajuda",
+      "socorro",
+      "help",
+      "tive um problema",
+      "não estou conseguindo",
+      "deu erro",
+      "está dando erro",
+      "não funciona",
+      "algo deu errado",
+      "estou com dificuldade",
+      "pode me ajudar?"
+    ],
+    "respostas": [
+      "Claro! Me conta o que aconteceu, com suas palavras, ou escolha um assunto abaixo."
+    ],
+    "acoes": [
+      {
+        "rotulo": "Central de ajuda",
+        "href": "/faq.html"
+      },
+      {
+        "rotulo": "Falar com o atendimento",
+        "href": "/"
+      }
+    ],
+    "sugestoes": [
+      "Onde você quer acessar?",
+      "Para quem a cOillect foi criada?",
+      "O que devo fazer com o óleo antes de armazenar?"
+    ]
+  },
+  "contato": {
+    "exemplos": [
+      "quero falar com um atendente",
+      "falar com uma pessoa",
+      "contato",
+      "qual o telefone",
+      "qual o email de vocês",
+      "tem whatsapp?",
+      "como entro em contato",
+      "atendimento humano",
+      "suporte",
+      "falar com o suporte",
+      "quero reclamar",
+      "qual o endereço da loja",
+      "endereço de vocês"
+    ],
+    "respostas": [
+      "Você fala com a equipe de cOillect pela página de contato."
+    ],
+    "acoes": [
+      {
+        "rotulo": "Abrir contato",
+        "href": "/"
+      }
+    ],
+    "sugestoes": []
+  }
+}

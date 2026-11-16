@@ -1,0 +1,16 @@
+services:
+  - type: web
+    name: coillect-agent
+    runtime: node
+    plan: free
+    rootDir: agent-service
+    buildCommand: echo "sem dependências"
+    startCommand: node server.mjs
+    healthCheckPath: /saude
+    envVars:
+      - key: ORIGENS
+        value: https://allanrodriguescosta.github.io
+      - key: IA_PROVEDOR
+        value: gemini
+      - key: IA_CHAVE
+        sync: false

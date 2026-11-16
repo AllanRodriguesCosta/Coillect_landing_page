@@ -1,0 +1,28 @@
+{
+  "versao": 1,
+  "nome": "Assistente cOillect",
+  "site": "cOillect",
+  "descricao": "cOillect — coleta inteligente de óleo de cozinha usado.",
+  "idioma": "pt-BR",
+  "moeda": "BRL",
+  "saudacao": "Oi! Sou o assistente virtual de cOillect. Posso tirar dúvidas, mostrar onde fica cada página.",
+  "naoEntendi": "Não entendi bem. Pode escrever de outro jeito? Se preferir, escolha uma opção ou fale com o atendimento.",
+  "vazio": "Escreva sua pergunta.",
+  "sugestoes": [
+    "Onde você quer acessar?",
+    "Para quem a cOillect foi criada?",
+    "Falar com o atendimento"
+  ],
+  "limiar": 0.55,
+  "cor": "#5e7f22",
+  "posicao": "direita",
+  "endpoint": "",
+  "registro": "",
+  "origem": {
+    "gerador": "agent-generator",
+    "relatorio": "2026-11-16T06:07:13.582Z",
+    "stack": [
+      "HTML estático"
+    ]
+  }
+}
