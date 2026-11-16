@@ -90,6 +90,67 @@
       "O que devo fazer com o óleo antes de armazenar?"
     ]
   },
+  "sobre_coillect": {
+    "exemplos": [
+      "quero saber mais sobre a coillect",
+      "como posso saber mais sobre a coillect",
+      "me conte sobre a coillect",
+      "me fale sobre a coillect",
+      "o que é a coillect",
+      "o que é esse projeto",
+      "qual é a proposta da coillect",
+      "quero conhecer a coillect",
+      "me explique a coillect",
+      "quero entender a coillect",
+      "o que vocês fazem",
+      "para que serve a coillect"
+    ],
+    "respostas": [
+      "A cOillect é uma proposta acadêmica de coleta inteligente de óleo de cozinha usado. Ela organiza o acompanhamento do galão e a troca para favorecer o descarte correto e a reciclagem."
+    ],
+    "acoes": [
+      {
+        "rotulo": "Como funciona",
+        "href": "/Coillect_landing_page/como-funciona.html"
+      },
+      {
+        "rotulo": "Ver impacto",
+        "href": "/Coillect_landing_page/impacto.html"
+      }
+    ],
+    "sugestoes": [
+      "Como a cOillect funciona?",
+      "Quem criou a cOillect?",
+      "Como acesso o app da cOillect?"
+    ]
+  },
+  "equipe_coillect": {
+    "exemplos": [
+      "quem criou a coillect",
+      "quem fez a coillect",
+      "quem desenvolveu a coillect",
+      "quem são os autores",
+      "quem são os criadores",
+      "quem criou esse app",
+      "quem fez esse projeto",
+      "quem são os integrantes",
+      "qual é a equipe da coillect",
+      "quais alunos fizeram o projeto"
+    ],
+    "respostas": [
+      "A cOillect foi desenvolvida como Projeto Integrador da FATEC Cotia por Allan Rodrigues da Costa, Felippi Oliveira, Leonardo Ked, Danielle Sismon e João Paulo, no curso de Desenvolvimento de Software Multiplataforma."
+    ],
+    "acoes": [
+      {
+        "rotulo": "Conheça o projeto",
+        "href": "/Coillect_landing_page/index.html#projeto"
+      }
+    ],
+    "sugestoes": [
+      "Como a cOillect funciona?",
+      "Qual é o impacto do descarte de óleo?"
+    ]
+  },
   "ajuda": {
     "exemplos": [
       "ajuda",

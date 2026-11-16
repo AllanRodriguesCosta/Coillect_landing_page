@@ -47,5 +47,61 @@
     "resposta": "Não. A cOillect é um Projeto Integrador acadêmico da FATEC Cotia, desenvolvido no curso de Desenvolvimento de Software Multiplataforma. Esta página apresenta a proposta e o protótipo do projeto.",
     "termos": "",
     "link": "/faq.html"
+  },
+  {
+    "id": "quem-criou-a-coillect",
+    "pergunta": "Quem criou a cOillect?",
+    "resposta": "A cOillect é um Projeto Integrador da FATEC Cotia, no curso de Desenvolvimento de Software Multiplataforma. Foi desenvolvida por Allan Rodrigues da Costa, Felippi Oliveira, Leonardo Ked, Danielle Sismon e João Paulo.",
+    "termos": "quem criou a coillect, quem fez a coillect, autores do projeto, alunos que criaram, criadores, equipe do projeto, integrantes, grupo da coillect, projeto da fatec, trabalho da faculdade, trabalho acadêmico",
+    "link": "/index.html#projeto"
+  },
+  {
+    "id": "o-que-e-a-coillect",
+    "pergunta": "O que é a cOillect?",
+    "resposta": "A cOillect é uma proposta de coleta inteligente de óleo de cozinha usado. Ela acompanha o nível do galão, orienta o responsável e ajuda a organizar a troca antes que o recipiente encha.",
+    "termos": "o que é coillect, me fale da coillect, quero saber sobre a coillect, como saber mais, sobre o projeto, explique a coillect, o que vocês fazem, qual a ideia, qual o objetivo, para que serve",
+    "link": "/como-funciona.html"
+  },
+  {
+    "id": "como-funciona-a-coillect",
+    "pergunta": "Como a cOillect funciona?",
+    "resposta": "O óleo usado é armazenado no galão do local. O app acompanha o nível, avisa aos 70% e encaminha a necessidade de troca aos 90%, para que o óleo siga para a reciclagem no momento certo.",
+    "termos": "como funciona, como que funciona, funcionamento, passo a passo, como usa, como utilizar, processo de coleta, fluxo da coleta, como é feita a troca, galão inteligente",
+    "link": "/como-funciona.html"
+  },
+  {
+    "id": "por-que-nao-jogar-oleo-no-ralo",
+    "pergunta": "Por que não devo jogar óleo no ralo?",
+    "resposta": "O descarte incorreto pode causar entupimentos e dificultar o tratamento de esgoto. Quando chega à água, o óleo prejudica a oxigenação e pode afetar a vida aquática.",
+    "termos": "por que não jogar óleo na pia, pode jogar óleo no ralo, descarte errado, problema do óleo, óleo no esgoto, jogar no vaso, poluição da água, impacto ambiental, por que reciclar óleo",
+    "link": "/impacto.html"
+  },
+  {
+    "id": "como-descartar-oleo-corretamente",
+    "pergunta": "Como descartar o óleo corretamente?",
+    "resposta": "Espere o óleo esfriar, coe se necessário e guarde-o no recipiente destinado à coleta. Não despeje na pia, no ralo, no vaso sanitário ou no solo.",
+    "termos": "como descartar, onde jogar óleo, onde levar óleo usado, o que fazer com óleo de fritura, óleo velho, guardar óleo, armazenar óleo, descarte correto, reciclar óleo",
+    "link": "/faq.html"
+  },
+  {
+    "id": "para-quem-e-a-coillect",
+    "pergunta": "A cOillect serve para quem?",
+    "resposta": "A proposta atende principalmente condomínios, síndicos, restaurantes, lanchonetes e estabelecimentos que geram óleo de cozinha usado e precisam organizar a coleta.",
+    "termos": "para quem serve, quem pode usar, público alvo, público-alvo, é para restaurante, serve para condomínio, serve para empresa, síndico pode usar, estabelecimento pode usar, clientes",
+    "link": "/faq.html"
+  },
+  {
+    "id": "como-acessar-o-app",
+    "pergunta": "Como acesso o app da cOillect?",
+    "resposta": "Você pode abrir a cOillect pelo navegador no computador ou no celular. No smartphone, use a opção Adicionar à tela inicial para instalar a versão web mobile-first como PWA.",
+    "termos": "como baixar, como acessar app, aplicativo, tem app, app mobile, versão celular, instalar no celular, pwa, adicionar à tela inicial, abrir no computador, download",
+    "link": "/download.html"
+  },
+  {
+    "id": "o-que-acontece-quando-galao-enche",
+    "pergunta": "O que acontece quando o galão está cheio?",
+    "resposta": "O app sinaliza atenção aos 70% e, aos 90%, encaminha o pedido de troca. Também é possível solicitar uma troca antecipada quando for necessário.",
+    "termos": "galão cheio, galão enchendo, quando coleta, quando troca, nível do galão, alerta 70, alerta 90, recipiente cheio, pedir coleta, troca antecipada",
+    "link": "/faq.html"
   }
 ]
