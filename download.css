@@ -1,0 +1,56 @@
+.download-panel {
+  box-shadow: 0 24px 54px rgb(30 35 29 / 16%);
+}
+
+.download-options {
+  display: grid;
+  gap: 12px;
+  margin: 26px 0 22px;
+}
+
+.download-choice {
+  display: grid;
+  grid-template-columns: 44px 1fr auto;
+  align-items: center;
+  gap: 13px;
+  padding: 13px;
+  border: 1px solid rgb(255 255 255 / 20%);
+  border-radius: 16px;
+  color: #fff;
+  text-decoration: none;
+  transition: background .18s ease, border-color .18s ease, transform .18s ease;
+}
+
+.download-choice:hover {
+  transform: translateY(-2px);
+  background: rgb(255 255 255 / 9%);
+  border-color: rgb(255 255 255 / 48%);
+}
+
+.download-choice > span:first-child {
+  display: grid;
+  place-items: center;
+  width: 44px;
+  height: 44px;
+  border-radius: 13px;
+  background: #dce8bd;
+  color: #486718;
+  font: 700 21px/1 var(--display);
+}
+
+.download-choice > span:nth-child(2) {
+  display: grid;
+  gap: 2px;
+}
+
+.download-choice b { font-size: 15px; }
+.download-choice small { color: #cbd4c6; font-size: 12px; }
+.download-choice i { color: var(--lime); font-size: 22px; font-style: normal; }
+
+.download-choice.android { border-color: rgb(226 166 42 / 60%); }
+.download-choice.android > span:first-child { background: var(--sun); color: #503500; }
+.download-choice.android i { color: var(--sun); }
+
+@media (max-width: 760px) {
+  .download-choice { padding: 12px; }
+}
