@@ -16,7 +16,7 @@
   "limiar": 0.55,
   "cor": "#5e7f22",
   "posicao": "direita",
-  "endpoint": "",
+  "endpoint": "../api/agente",
   "registro": "",
   "origem": {
     "gerador": "agent-generator",
