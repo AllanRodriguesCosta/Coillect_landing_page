@@ -35,11 +35,11 @@
     "termos": "c Oil lect, Início, Seu óleo tem destino. A gente ajuda a chegar lá., Óleo usado não é lixo comum., Um galão. Uma visão clara., Para todo lugar onde o óleo continua., Condomínios, Estabelecimentos, Equipe de coleta, Uma companhia para a sua jornada mais limpa., Ideias que saem da sala de aula para cuidar do mundo."
   },
   {
-    "id": "baixar-app-android-apk-para-smartphones-android",
-    "titulo": "♙ Baixar app Android APK para smartphones Android ↓",
-    "href": "/downloads/coillect-mobile.apk",
-    "descricao": "",
-    "termos": ""
+    "id": "abrir-app-web-mobile",
+    "titulo": "Abrir app mobile",
+    "href": "https://coillect.vercel.app",
+    "descricao": "Experiência web mobile-first instalável no celular.",
+    "termos": "Abrir app mobile, Web app instalável no celular, PWA, Adicionar à tela inicial"
   },
   {
     "titulo": "Seu óleo tem destino.A gente ajuda a chegar lá.",

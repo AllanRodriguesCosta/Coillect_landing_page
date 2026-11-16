@@ -47,9 +47,9 @@
 .download-choice small { color: #cbd4c6; font-size: 12px; }
 .download-choice i { color: var(--lime); font-size: 22px; font-style: normal; }
 
-.download-choice.android { border-color: rgb(226 166 42 / 60%); }
-.download-choice.android > span:first-child { background: var(--sun); color: #503500; }
-.download-choice.android i { color: var(--sun); }
+.download-choice.mobile { border-color: rgb(226 166 42 / 60%); }
+.download-choice.mobile > span:first-child { background: var(--sun); color: #503500; }
+.download-choice.mobile i { color: var(--sun); }
 
 @media (max-width: 760px) {
   .download-choice { padding: 12px; }
