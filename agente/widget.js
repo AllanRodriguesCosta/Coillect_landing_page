@@ -251,6 +251,8 @@ export async function mount(options = {}) {
     panel.hidden = !open;
     launcher.setAttribute("aria-expanded", String(open));
     root.classList.toggle("agw-open", open);
+    document.documentElement.classList.toggle("agw-scroll-lock", open);
+    document.body.classList.toggle("agw-scroll-lock", open);
     if (open) {
       render();
       input.focus();

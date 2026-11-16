@@ -18,7 +18,7 @@
 .agw-header strong { flex: 1; font-size: 16px; }
 .agw-icon { width: 36px; height: 36px; border: 0; border-radius: 8px; background: transparent; color: inherit; font-size: 20px; cursor: pointer; }
 .agw-icon:hover { background: rgb(255 255 255 / 0.18); }
-.agw-log { flex: 1; overflow-y: auto; padding: 14px; display: flex; flex-direction: column; gap: 10px; }
+.agw-log { flex: 1; overflow-y: auto; overscroll-behavior: contain; -webkit-overflow-scrolling: touch; padding: 14px; display: flex; flex-direction: column; gap: 10px; }
 .agw-msg { max-width: 88%; padding: 9px 12px; border-radius: 14px; }
 .agw-msg p { margin: 0; white-space: pre-line; }
 .agw-bot { align-self: flex-start; background: var(--agw-soft); border-bottom-left-radius: 4px; }
@@ -45,7 +45,7 @@
 @media (max-width: 480px) {
   .agw-root { bottom: 10px; right: 10px; }
   .agw-root.agw-esquerda { left: 10px; }
-  .agw-panel { width: calc(100vw - 20px); height: calc(88dvh - 20px); }
+  .agw-panel { width: calc(100vw - 20px); height: min(520px, calc(100dvh - 112px)); }
 }
 @media (prefers-reduced-motion: no-preference) {
   .agw-panel { animation: agw-in 0.18s ease-out; }
@@ -71,3 +71,4 @@
 @keyframes agw-invite-out { to { opacity: 0; transform: translateY(8px); } }
 @media (prefers-reduced-motion: reduce) { .agw-launcher::after { animation: none; } .agw-invite, .agw-invite-away { animation: none; } }
 @media (max-width: 480px) { .agw-root { right: 14px; bottom: 14px; } .agw-invite { max-width: 190px; bottom: 66px; } }
+html.agw-scroll-lock, body.agw-scroll-lock { overflow: hidden !important; overscroll-behavior: none; }
