@@ -45,7 +45,7 @@
 @media (max-width: 480px) {
   .agw-root { bottom: 10px; right: 10px; }
   .agw-root.agw-esquerda { left: 10px; }
-  .agw-panel { width: calc(100vw - 20px); height: calc(100vh - 20px); }
+  .agw-panel { width: calc(100vw - 20px); height: calc(88dvh - 20px); }
 }
 @media (prefers-reduced-motion: no-preference) {
   .agw-panel { animation: agw-in 0.18s ease-out; }
