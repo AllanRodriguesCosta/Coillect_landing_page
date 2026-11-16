@@ -4,48 +4,48 @@
     "pergunta": "Onde você quer acessar?",
     "resposta": "Escolha a experiência que mais combina com o seu dispositivo. ▣ Abrir painel web Para computador e navegador ↗ ♙ Baixar app Android APK para smartphones Android ↓ No Android, talvez seja necessário permitir a instalação de apps desta origem. O arquivo é destinado a demonstração acadêmica.",
     "termos": "",
-    "link": "/download.html"
+    "link": "/Coillect_landing_page/download.html"
   },
   {
     "id": "para-quem-a-coillect-foi-criada",
     "pergunta": "Para quem a cOillect foi criada?",
     "resposta": "Para síndicos, responsáveis por condomínios, restaurantes, lanchonetes e outros estabelecimentos que acumulam óleo de cozinha usado e precisam de uma rotina de coleta mais organizada.",
     "termos": "",
-    "link": "/faq.html"
+    "link": "/Coillect_landing_page/faq.html"
   },
   {
     "id": "o-que-devo-fazer-com-o-oleo-antes-de-armazenar",
     "pergunta": "O que devo fazer com o óleo antes de armazenar?",
     "resposta": "Espere o óleo esfriar, coe quando necessário e deposite-o no recipiente destinado à coleta. Não o descarte em pias, ralos, vasos sanitários ou no solo.",
     "termos": "",
-    "link": "/faq.html"
+    "link": "/Coillect_landing_page/faq.html"
   },
   {
     "id": "como-sei-que-o-galao-esta-perto-de-encher",
     "pergunta": "Como sei que o galão está perto de encher?",
     "resposta": "O app apresenta o nível do galão e sinaliza quando ele chega a 70% de capacidade. Aos 90%, a necessidade de troca é encaminhada para acompanhamento da equipe.",
     "termos": "",
-    "link": "/faq.html"
+    "link": "/Coillect_landing_page/faq.html"
   },
   {
     "id": "preciso-solicitar-a-troca-manualmente",
     "pergunta": "Preciso solicitar a troca manualmente?",
     "resposta": "Você pode solicitar uma troca antecipada quando precisar. No fluxo padrão, a cOillect também acompanha o nível para que a necessidade de coleta não dependa apenas de uma lembrança manual.",
     "termos": "",
-    "link": "/faq.html"
+    "link": "/Coillect_landing_page/faq.html"
   },
   {
     "id": "o-que-acontece-com-o-oleo-coletado",
     "pergunta": "O que acontece com o óleo coletado?",
     "resposta": "O objetivo é encaminhá-lo à reciclagem. Óleo de cozinha usado corretamente destinado pode ser transformado em produtos como sabão, detergente e biodiesel, conforme iniciativas públicas de reciclagem.",
     "termos": "",
-    "link": "/faq.html"
+    "link": "/Coillect_landing_page/faq.html"
   },
   {
     "id": "a-coillect-ja-e-uma-operacao-comercial",
     "pergunta": "A cOillect já é uma operação comercial?",
     "resposta": "Não. A cOillect é um Projeto Integrador acadêmico da FATEC Cotia, desenvolvido no curso de Desenvolvimento de Software Multiplataforma. Esta página apresenta a proposta e o protótipo do projeto.",
     "termos": "",
-    "link": "/faq.html"
+    "link": "/Coillect_landing_page/faq.html"
   }
 ]

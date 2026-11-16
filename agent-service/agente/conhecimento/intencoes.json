@@ -112,11 +112,11 @@
     "acoes": [
       {
         "rotulo": "Central de ajuda",
-        "href": "/faq.html"
+        "href": "/Coillect_landing_page/faq.html"
       },
       {
         "rotulo": "Falar com o atendimento",
-        "href": "/"
+        "href": "/Coillect_landing_page/"
       }
     ],
     "sugestoes": [
@@ -147,7 +147,7 @@
     "acoes": [
       {
         "rotulo": "Abrir contato",
-        "href": "/"
+        "href": "/Coillect_landing_page/"
       }
     ],
     "sugestoes": []
